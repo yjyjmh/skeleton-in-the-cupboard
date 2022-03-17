@@ -10,14 +10,11 @@ sudo apt update && sudo apt install docker.io
 ```
 Make sure to expose any ports used inside the container! I exposed 1389 of LDAP referer by default.
 
-_Side Note_:Referer to marshalsec Repo for LDAP setup 
-
+_Side Note_: Refer to marshalsec project for LDAP setup 
 
 ## Targets vulnerable (Not Confirmed): 
-Asterix 
+Asterix
 Nanosoft 
 Beta 
-
-
 ## Targets vulnerable (Confirmed): 
 EWS-Corp “ψ(｀∇´)ψ 
