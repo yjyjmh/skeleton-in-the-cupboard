@@ -17,4 +17,4 @@ Asterix
 Nanosoft 
 Beta 
 ## Targets vulnerable (Confirmed): 
-EWS-Corp “ψ(｀∇´)ψ 
+EWS-Corp “ψ(｀∇´)ψ  ====>>> Ip Address: 34.239.129.150
